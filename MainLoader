@@ -12,8 +12,8 @@ local player = Players.LocalPlayer
 
 -- Supported Games
 local SupportedGames = {
-    [920587237]  = "https://raw.githubusercontent.com/ValorHub0/Premium/refs/heads/main/HouseCloner.lua",
-    [383310974]  = "https://raw.githubusercontent.com/ValorHub0/Premium/refs/heads/main/HouseCloner.lua",
+    [920587237]  = "https://raw.githubusercontent.com/ValorHub0/Premium/refs/heads/main/GingerbreadAutoFarm.lua",
+    [383310974]  = "https://raw.githubusercontent.com/ValorHub0/Premium/refs/heads/main/GingerbreadAutoFarm.lua",
 }
 
 local function SafeLoad(url, name)

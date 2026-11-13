@@ -4,5 +4,4 @@ local function playerKick(reason)
     end)
 end
 
--- Usage
 playerKick("Updating pls wait")
